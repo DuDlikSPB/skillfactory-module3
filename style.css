@@ -474,8 +474,6 @@ section {
     letter-spacing: 0.4px;
     margin-right: 2vw;
 }
-
-
 /* END SUBSCRIBE */
 
 
@@ -668,9 +666,6 @@ footer > p{
     .youtube-text-wrapper > h1 {
         font-size: 5vw;
     }
-    .youtube-text-wrapper > p {
-        /* font-size: 1.3vw; */
-    }
     .youtube-text-wrapper > a {
         width: 20vw;
         height: 4.5vw;
@@ -686,10 +681,6 @@ footer > p{
 
     .text-doyouknow > h1 {
         font-size: 3.5vw;
-    }
-
-    .text-doyouknow > p {
-
     }
 
     .text-doyouknow > a {
